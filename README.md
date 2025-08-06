@@ -1,45 +1,90 @@
-# 👋 Hi, I'm Rodrigo Alexander
+<!-- README.md -->
 
-**Full-Stack & Mobile Developer** | React Native Specialist | Seeking remote junior/internship roles  
+<h1 align="center">Hi there 👋, I'm Rodrigo Alexander</h1>
 
-🔭 Currently shipping: **Production-ready apps with React Native + Expo**  
-🌱 Mastering: **Spring Boot microservices & Next.js ISR**  
-
----
-
-## 🛠️ Tech Stack  
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro)  
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring)  
-
-**Mobile**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo)  
-
-**Infrastructure**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)  
+<p align="center">
+  <b>Full-Stack & Mobile Developer</b> | Passionate about building scalable software and clean architecture  
+  <br/>
+  Currently open to: <b>Remote Internships</b> · <b>Junior Roles</b> · <b>Freelance Projects</b>
+</p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 About Me
 
-| Project | Description | Tech Highlights |  
-|---------|-------------|-----------------|  
-| **[🏥 Healthcare Management System](https://github.com/RodrigoAlexander7/Sistema_Integrado_de_Salud_UNSA)** | Production system for university medical center | React, Node, MongoDB, JWT Auth |  
-| **[🤖 AI-Powered File Manager](https://github.com/RodrigoAlexander7/Automated_File_Manager)** | Automated document organization with ML | Python, scikit-learn, Tkinter |  
-| **[✅ Super ToDo List](https://github.com/RodrigoAlexander7/Super-ToDo-List)** | Task manager with analytics | React, TypeScript, LocalStorage |  
+🎓 I'm a Software Engineering student passionate about turning ideas into real-world applications.  
+🔬 I'm currently involved in multiple university-led research projects building systems for healthcare and automation.  
+💡 Focused on mastering clean code, hexagonal architecture, and robust backend systems.  
+🧠 Always learning: improving my skills in **Spring Boot**, **NestJS**, and **Next.js**.
 
 ---
 
-## 📬 Let's Connect  
-I'm actively interviewing for:  
-🔹 **React Native Internships**  
-🔹 **Junior Full-Stack Roles**  
-🔹 **Freelance Mobile Projects**  
+## 🛠 Tech Stack & Tools
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rodrigo-fernandez-h/)  
-📧 rodrygoleu7@gmail.com
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py" />
 
-> “Learning never exhausts the mind.” – Leonardo da Vinci
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,next,astro" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,fastapi" />
+
+  <!-- Mobile -->
+  <img src="https://skillicons.dev/icons?i=react,expo" />
+
+  <!-- DevOps & DB -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git" />
+</p>
+
+---
+
+## 🧩 Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🏥 Integrated Health System](https://github.com/RodrigoAlexander7/Sistema_Integrado_de_Salud_UNSA) | Production-grade medical system for a university center | React, Node.js, MongoDB |
+| [🤖 AI File Manager](https://github.com/RodrigoAlexander7/Automated_File_Manager) | Auto-organizes files using simple ML algorithms | Python, scikit-learn |
+| [✅ Super ToDo List](https://github.com/RodrigoAlexander7/Super-ToDo-List) | Smart to-do app with task analytics | React, TypeScript |
+
+---
+
+## 🧭 Goals
+
+- 📱 Publish a complete mobile app using **React Native + Expo + Supabase**
+- ☁️ Learn advanced backend architecture with **Spring Boot Microservices**
+- 🧪 Explore AI integration into mobile health apps (ongoing research)
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:rodrygoleu7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-fernandez-h/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RodrigoAlexander7">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🏷 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-Learning-green?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/React_Native-Production Ready-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-Advanced-informational?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Next.js-In Progress-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+> _"Learning never exhausts the mind." – Leonardo da Vinci_
+

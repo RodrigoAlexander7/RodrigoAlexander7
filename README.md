@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi there 👋, I'm Rodrigo Alexander</h1>
 
 <p align="center">
@@ -58,4 +57,4 @@
 </p>
 
 > _"Learning never exhausts the mind." – Leonardo da Vinci_
-```
+

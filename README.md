@@ -14,10 +14,23 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,react,nodejs,expo,spring,fastapi,postgres,mongodb,docker,git" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,next,astro" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,fastapi" />
+
+  <!-- Mobile -->
+  <img src="https://skillicons.dev/icons?i=react,expo" />
+
+  <!-- DevOps & DB -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git" />
 </p>
 
 ---
@@ -49,12 +62,13 @@
 ## 🏷 Badges
 
 <p align="center">
-  <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/badges/Spring_Boot.svg" alt="Spring Boot" />
-  <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/badges/React_Native.svg" alt="React Native" />
-  <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/badges/Node.js.svg" alt="Node.js" />
-  <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/badges/Next.js.svg" alt="Next.js" />
-  <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile/raw/master/badges/TypeScript.svg" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Learning-green?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/React_Native-Production Ready-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-Advanced-informational?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Next.js-In Progress-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
 
 > _"Learning never exhausts the mind." – Leonardo da Vinci_
 

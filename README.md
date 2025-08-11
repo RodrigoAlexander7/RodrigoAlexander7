@@ -1,49 +1,56 @@
-<h1 align="center">Hi there 👋, I'm Rodrigo Alexander</h1>
+<h1 align="center">👋 Hi, I'm Rodrigo Alexander</h1>
+<h3 align="center">Full-Stack & Mobile Developer</h3>
 
 <p align="center">
-  <strong>Full-Stack & Mobile Developer</strong> | Passionate about scalable software & clean architectures
+  Building scalable solutions with clean architectures 
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Focus
 
-- 🎓 Software Engineering student with hands-on experience in university research projects (healthcare & automation).
-- 💡 Focused on clean code, hexagonal architecture, and robust backend systems using Spring Boot, NestJS & Next.js.
-- 🔭 Currently building **DosisFe**, a mobile health app in React Native + Expo EAS.
-
----
-
-## 🛠 Tech Stack & Tools
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py" />
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,next,astro" />
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,fastapi" />
-
-  <!-- Mobile -->
-  <img src="https://skillicons.dev/icons?i=react,expo" />
-
-  <!-- DevOps & DB -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git" />
-</p>
+- 🎓 Software Engineering student developing production systems for healthcare & automation
+- 🔭 **Current Project**: Building **DosisFe** (React Native + Expo EAS health app)
+- 💡 Deep focus on: Hexagonal Architecture • Spring Boot • Next.js Optimizations
+- 🌱 Researching: AI/ML integration in mobile health applications
 
 ---
 
-## 🔗 Key Projects
+## 🛠 Core Technologies
 
-- **Integrated Health System**: Production-grade medical portal for university healthcare center. (React, Node.js, MongoDB)
-- **AI File Manager**: Automated file organization using machine learning. (Python, scikit-learn)
-- **Super ToDo List**: Intelligent task manager with analytics dashboard. (React, TypeScript)
+**Languages:**  
+
+[![My Skills](https://skillicons.dev/icons?i=ts,python,cpp,java)](https://skillicons.dev)
+
+**Frontend/ Mobile:**  
+
+[![My Skills](https://skillicons.dev/icons?i=react,astro,next,flutter)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo)
+
+**Backend:**  
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,spring,fastapi)](https://skillicons.dev)
+
+**Data & DevOps:**  
+
+[![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,docker,git)](https://skillicons.dev)
+
 
 ---
 
-## 📫 Connect with Me
+## 💼 Featured Projects
+
+### [🤖 AI-Powered File Manager](https://github.com/RodrigoAlexander7/Automated_File_Manager)
+Automated file organization using ML classifiers  
+**Stack**: Python • scikit-learn • Computer Vision
+
+### [🚀 DosisFe (WIP)](https://github.com/RodrigoAlexander7/H-Calculator)
+Mobile health application with dosage tracking  
+**Stack**: React Native • Expo EAS • Supabase
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:rodrygoleu7@gmail.com">
@@ -56,19 +63,3 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🏷 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-Learning-green?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/React_Native-Production Ready-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-Advanced-informational?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Next.js-In Progress-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-
-> _"Learning never exhausts the mind." – Leonardo da Vinci_
-

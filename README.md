@@ -24,16 +24,16 @@
 
 **Frontend/ Mobile:**  
 
-[![My Skills](https://skillicons.dev/icons?i=react,astro,next,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,astro,next,flutter)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo)
 
 **Backend:**  
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,spring,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi)](https://skillicons.dev)
 
 **Data & DevOps:**  
 
-[![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,docker,git,linux)](https://skillicons.dev)
 
 
 ---

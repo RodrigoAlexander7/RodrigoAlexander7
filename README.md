@@ -41,8 +41,8 @@
 ## 💼 Featured Projects
 
 ### [🤖 AI-Powered File Manager](https://github.com/RodrigoAlexander7/Automated_File_Manager)
-Automated file organization using ML classifiers  
-**Stack**: Python • scikit-learn • Computer Vision
+Automated file organization using ML classifiers  (k-means clustering model)
+**Stack**: Python • scikit-learn 
 
 ### [🚀 DosisFe (WIP)](https://github.com/RodrigoAlexander7/H-Calculator)
 Mobile health application with dosage tracking  

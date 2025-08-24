@@ -20,7 +20,9 @@
 
 **Languages:**  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,cpp,java,dart)](https://skillicons.dev)
+
+
 
 **Frontend/ Mobile:**  
 
@@ -31,9 +33,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi)](https://skillicons.dev)
 
-**Data & DevOps:**  
+**Frameworks & Libraries:**
 
-[![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,docker,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,graphql,prisma,mui)](https://skillicons.dev)
+
+
+
+**Services & Databases:** 
+
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mongo,postgres,mysql,docker,git,linux)](https://skillicons.dev)
 
 
 ---

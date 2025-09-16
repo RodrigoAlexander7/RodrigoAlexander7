@@ -48,13 +48,18 @@
 
 ## 💼 Featured Projects
 
+### [✨ LeetCode Solutions](https://github.com/RodrigoAlexander7/LeetCode)
+LeetCode solutions  
+**Stack**: C++ • Python
+
 ### [🤖 AI-Powered File Manager](https://github.com/RodrigoAlexander7/Automated_File_Manager)
-Automated file organization using ML classifiers  (k-means clustering model)
-**Stack**: Python • scikit-learn 
+Automated file organization using ML classifiers  (k-means clustering model)  
+**Stack**: Python • Scikit-Learn • QT 
 
 ### [🚀 DosisFe (WIP)](https://github.com/RodrigoAlexander7/H-Calculator)
 Mobile health application with dosage tracking  
 **Stack**: React Native • Expo EAS • Supabase
+
 
 ---
 

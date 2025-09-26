@@ -9,10 +9,10 @@
 
 ## 🚀 Professional Focus
 
-- 🎓 Software Engineering student developing production systems for healthcare & automation
-- 🔭 **Current Project**: Building **DosisFe** (React Native + Expo EAS health app)
-- 💡 Deep focus on: Hexagonal Architecture • Spring Boot • Next.js Optimizations
-- 🌱 Researching: AI/ML integration in mobile health applications
+- 🎓 Software Engineering student
+- 💡 Deep focus on: Hexagonal Architecture • Spring Boot • Nest.js Optimizations
+- 🌱 Research topic: Integration of AI/ML in crop recognition applications
+- 🔭 Improving...
 
 ---
 

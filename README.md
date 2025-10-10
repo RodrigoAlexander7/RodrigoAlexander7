@@ -56,8 +56,8 @@ LeetCode solutions
 Automated file organization using ML classifiers  (k-means clustering model)  
 **Stack**: Python • Scikit-Learn • QT 
 
-### [🚀 DosisFe (WIP)](https://github.com/RodrigoAlexander7/H-Calculator)
-Mobile health application with dosage tracking  
+### [🚀 Mica App (WIP)](https://github.com/RodrigoAlexander7/mica-app)
+Mobile health application for anemia tracking powered by AI 
 **Stack**: React Native • Expo EAS • Supabase
 
 

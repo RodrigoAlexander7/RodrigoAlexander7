@@ -20,13 +20,13 @@
 
 **Languages:**  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,python,cpp,java,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,java,kotlin)](https://skillicons.dev)
 
 
 
 **Frontend/ Mobile:**  
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,astro,next,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,astro,next)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo)
 
 **Backend:**  

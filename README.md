@@ -1,28 +1,28 @@
 <h1 align="center">Hi, I'm Rodrigo Alexander</h1>
-<h3 align="center">Cloud & AI Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer | Backend, Cloud & AI</h3>
 
 <p align="center">
-  Building scalable products with clean architecture, cloud infrastructure, and applied AI.
+  I build practical software with clean architecture, scalable backend systems, and applied AI
 </p>
 
 ---
 
 ## About Me
 
-- Software Engineering student from Peru
-- Focused on **Hexagonal Architecture**, **Spring Boot**, and **NestJS**
-- Interested in **Cloud Computing** and **AI/ML** for real-world problems
-- Passionate about building systems that are secure, maintainable, scalable, and useful
+- Software Engineer
+- Focused on **backend development**, **clean architecture**, and **cloud**
+- Working with **Spring Boot**, **NestJS**, **Next.js**, and **FastAPI**
+- Interested in **AI/ML** and **security** for real-world products
+- I like building software that is useful, maintainable, and deployed
 
 ---
 
-## What I'm Working On
+## What I Build
 
-- Cloud-first backend systems
-- Web and mobile applications
-- AI-powered tools for automation, learning, and search
-- Projects that solve practical problems with clean architecture
-- AppSec & CloudSec
+- Backend APIs and full-stack applications
+- Cloud-ready systems with containers and databases
+- AI-powered tools for search, automation, and decision support
+- Projects with a clear problem, a real user, and a measurable outcome
 
 ---
 
@@ -35,8 +35,7 @@ JavaScript · TypeScript · Python · Java · C++ · Kotlin
 React · Next.js · React Native · Expo
 
 ### Backend
-Node.js · NestJS · Spring Boot · Express · FastAPI · SpringBoot
-
+Node.js · NestJS · Spring Boot · Express · FastAPI
 
 ### Cloud / Tools
 Google Cloud · Azure · Docker · PostgreSQL · MongoDB · Firebase · Git · Linux
@@ -46,23 +45,30 @@ Google Cloud · Azure · Docker · PostgreSQL · MongoDB · Firebase · Git · L
 ## Featured Projects
 
 ### [Law Copilot](https://github.com/RodrigoAlexander7/law-copilot)
-An intelligent legal assistant powered by RAG, trained on Peruvian legal documents, with cloud-first architecture and semantic retrieval.
+An intelligent legal assistant with RAG over Peruvian legal documents.
 
 **Stack:** Google Cloud · FastAPI · LangChain · FAISS · Next.js · Docker
 
----
-
 ### [AI-Powered Learning Assistant](https://github.com/RodrigoAlexander7/Google-Built-in-AI-Challenge-2025)
-An educational platform powered by Gemini AI, combining cloud intelligence with local Gemini Nano processing for privacy and performance.
+An educational platform powered by Gemini AI and local Gemini Nano processing.
 
 **Stack:** TypeScript · Next.js · Python · FastAPI · Gemini Nano · Gemini API
 
----
-
-### [PMB Clustering - Automated Scientific Article Clustering](https://github.com/RodrigoAlexander7/nasa-space-apps-challenge-2025)
-An end-to-end ML pipeline for clustering and semantic search of scientific literature using modern NLP and unsupervised learning techniques.
+### [PMB Clustering](https://github.com/RodrigoAlexander7/nasa-space-apps-challenge-2025)
+An ML pipeline for clustering and semantic search of scientific literature.
 
 **Stack:** Python · FastAPI · SciBERT · HDBSCAN · Whoosh · Vercel
+
+---
+
+## Experience / Focus Areas
+
+- Hexagonal Architecture
+- Spring Boot
+- NestJS
+- Cloud deployment
+- AI/ML applications
+- App security basics
 
 ---
 

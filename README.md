@@ -12,7 +12,7 @@
 - Software Engineering student from Peru
 - Focused on **Hexagonal Architecture**, **Spring Boot**, and **NestJS**
 - Interested in **Cloud Computing** and **AI/ML** for real-world problems
-- Passionate about building systems that are maintainable, scalable, and useful
+- Passionate about building systems that are secure, maintainable, scalable, and useful
 
 ---
 
@@ -22,6 +22,7 @@
 - Web and mobile applications
 - AI-powered tools for automation, learning, and search
 - Projects that solve practical problems with clean architecture
+- AppSec & CloudSec
 
 ---
 
@@ -31,16 +32,14 @@
 JavaScript · TypeScript · Python · Java · C++ · Kotlin
 
 ### Frontend / Mobile
-React · Next.js · React Native · Flutter
+React · Next.js · React Native · Expo
 
 ### Backend
-Node.js · NestJS · Spring Boot · Express · FastAPI
+Node.js · NestJS · Spring Boot · Express · FastAPI · SpringBoot
 
-### AI / Data
-RAG · LangChain · FAISS · SciBERT · HDBSCAN · Scikit-Learn · Whoosh
 
 ### Cloud / Tools
-Google Cloud · Docker · PostgreSQL · MongoDB · Firebase · Vercel · Git · Linux
+Google Cloud · Azure · Docker · PostgreSQL · MongoDB · Firebase · Git · Linux
 
 ---
 

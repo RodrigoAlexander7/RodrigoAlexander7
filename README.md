@@ -1,69 +1,73 @@
-<h1 align="center">👋 Hi, I'm Rodrigo Alexander</h1>
-<h3 align="center">Full-Stack & Mobile Developer</h3>
+<h1 align="center">Hi, I'm Rodrigo Alexander</h1>
+<h3 align="center">Cloud & AI Full-Stack Developer</h3>
 
 <p align="center">
-  Building scalable solutions with clean architectures 
+  Building scalable products with clean architecture, cloud infrastructure, and applied AI.
 </p>
 
 ---
 
-## 🚀 Professional Focus
+## About Me
 
-- 🎓 Software Engineering student
-- 💡 Deep focus on: Hexagonal Architecture • Spring Boot • Nest.js Optimizations
-- 🌱 Research topic: Integration of AI/ML in crop recognition applications
-- 🔭 Improving...
-
----
-
-## 🛠 Core Technologies
-
-**Languages:**  
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,cpp,java,kotlin)](https://skillicons.dev)
-
-
-
-**Frontend/ Mobile:**  
-
-[![My Skills](https://skillicons.dev/icons?i=react,astro,next)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo)
-
-**Backend:**  
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi)](https://skillicons.dev)
-
-**Frameworks & Libraries:**
-
-[![My Skills](https://skillicons.dev/icons?i=tailwind,graphql,prisma,mui)](https://skillicons.dev)
-
-
-
-**Services & Databases:** 
-
-[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,mongo,postgres,mysql,docker,git,linux)](https://skillicons.dev)
-
+- Software Engineering student from Peru
+- Focused on **Hexagonal Architecture**, **Spring Boot**, and **NestJS**
+- Interested in **Cloud Computing** and **AI/ML** for real-world problems
+- Passionate about building systems that are maintainable, scalable, and useful
 
 ---
 
-## 💼 Featured Projects
+## What I'm Working On
 
-### [✨ LeetCode Solutions](https://github.com/RodrigoAlexander7/LeetCode)
-LeetCode solutions  
-**Stack**: C++ • Python
-
-### [🤖 AI-Powered File Manager](https://github.com/RodrigoAlexander7/Automated_File_Manager)
-Automated file organization using ML classifiers  (k-means clustering model)  
-**Stack**: Python • Scikit-Learn • QT 
-
-### [🚀 Mica App (WIP)](https://github.com/RodrigoAlexander7/mica-app)
-Mobile health application for anemia tracking powered by AI  
-**Stack**: React Native • Expo EAS • Supabase
-
+- Cloud-first backend systems
+- Web and mobile applications
+- AI-powered tools for automation, learning, and search
+- Projects that solve practical problems with clean architecture
 
 ---
 
-## 📫 Let's Connect
+## Tech Stack
+
+### Languages
+JavaScript · TypeScript · Python · Java · C++ · Kotlin
+
+### Frontend / Mobile
+React · Next.js · React Native · Flutter
+
+### Backend
+Node.js · NestJS · Spring Boot · Express · FastAPI
+
+### AI / Data
+RAG · LangChain · FAISS · SciBERT · HDBSCAN · Scikit-Learn · Whoosh
+
+### Cloud / Tools
+Google Cloud · Docker · PostgreSQL · MongoDB · Firebase · Vercel · Git · Linux
+
+---
+
+## Featured Projects
+
+### [Law Copilot](https://github.com/RodrigoAlexander7/law-copilot)
+An intelligent legal assistant powered by RAG, trained on Peruvian legal documents, with cloud-first architecture and semantic retrieval.
+
+**Stack:** Google Cloud · FastAPI · LangChain · FAISS · Next.js · Docker
+
+---
+
+### [AI-Powered Learning Assistant](https://github.com/RodrigoAlexander7/Google-Built-in-AI-Challenge-2025)
+An educational platform powered by Gemini AI, combining cloud intelligence with local Gemini Nano processing for privacy and performance.
+
+**Stack:** TypeScript · Next.js · Python · FastAPI · Gemini Nano · Gemini API
+
+---
+
+### [PMB Clustering - Automated Scientific Article Clustering](https://github.com/RodrigoAlexander7/nasa-space-apps-challenge-2025)
+An end-to-end ML pipeline for clustering and semantic search of scientific literature using modern NLP and unsupervised learning techniques.
+
+**Stack:** Python · FastAPI · SciBERT · HDBSCAN · Whoosh · Vercel
+
+---
+
+## Let's Connect
 
 <p align="center">
   <a href="mailto:rodrygoleu7@gmail.com">

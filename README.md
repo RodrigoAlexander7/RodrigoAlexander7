@@ -11,53 +11,22 @@
 
 - Software Engineer
 - Focused on **backend development**, **clean architecture**, and **cloud**
-- Working with **Spring Boot**, **NestJS**, **Next.js**, and **FastAPI**
+- Working with **Spring Boot**, **NestJS**, and **FastAPI**
 - Interested in **AI/ML** and **security** for real-world products
 - I like building software that is useful, maintainable, and deployed
-
----
-
-## What I Build
-
-- Backend APIs and full-stack applications
-- Cloud-ready systems with containers and databases
-- AI-powered tools for search, automation, and decision support
-- Projects with a clear problem, a real user, and a measurable outcome
 
 ---
 
 ## Tech Stack
 
 ### Languages
-JavaScript · TypeScript · Python · Java · C++ · Kotlin
-
-### Frontend / Mobile
-React · Next.js · React Native · Expo
+Java · C# · Python · TypeScript   
 
 ### Backend
-Node.js · NestJS · Spring Boot · Express · FastAPI
+Spring Boot · .NET · FastAPI · NestJS 
 
 ### Cloud / Tools
 Google Cloud · Azure · Docker · PostgreSQL · MongoDB · Firebase · Git · Linux
-
----
-
-## Featured Projects
-
-### [Law Copilot](https://github.com/RodrigoAlexander7/law-copilot)
-An intelligent legal assistant with RAG over Peruvian legal documents.
-
-**Stack:** Google Cloud · FastAPI · LangChain · FAISS · Next.js · Docker
-
-### [AI-Powered Learning Assistant](https://github.com/RodrigoAlexander7/Google-Built-in-AI-Challenge-2025)
-An educational platform powered by Gemini AI and local Gemini Nano processing.
-
-**Stack:** TypeScript · Next.js · Python · FastAPI · Gemini Nano · Gemini API
-
-### [PMB Clustering](https://github.com/RodrigoAlexander7/nasa-space-apps-challenge-2025)
-An ML pipeline for clustering and semantic search of scientific literature.
-
-**Stack:** Python · FastAPI · SciBERT · HDBSCAN · Whoosh · Vercel
 
 ---
 
@@ -66,9 +35,8 @@ An ML pipeline for clustering and semantic search of scientific literature.
 - Hexagonal Architecture
 - Spring Boot
 - NestJS
-- Cloud deployment
-- AI/ML applications
-- App security basics
+- Cloud deployment & security 
+- AI/ML
 
 ---
 

@@ -30,7 +30,11 @@ AWS · Azure · Docker · PostgreSQL · MongoDB · Firebase · Git · Linux
 
 ## Featured Projects
 
---- 
+### [CanSat LoRa Transmission System](#)
+Complete telemetry and imaging system for a CanSat mission — from onboard sensors to a real‑time ground‑station dashboard.
+
+**Stack:** C++ · Raspberry Pi Zero 2W · LoRa SX1278 · ESP32 · Python · Next.js · Three.js · WebSocket
+
 
 ### [Law Copilot](https://github.com/RodrigoAlexander7/law-copilot)
 An intelligent legal assistant with RAG over Peruvian legal documents.
@@ -42,10 +46,6 @@ An educational platform powered by Gemini AI and local Gemini Nano processing.
 
 **Stack:** TypeScript · Next.js · Python · FastAPI · Gemini Nano · Gemini API
 
-### [PMB Clustering](https://github.com/RodrigoAlexander7/nasa-space-apps-challenge-2025)
-An ML pipeline for clustering and semantic search of scientific literature.
-
-**Stack:** Python · FastAPI · SciBERT · HDBSCAN · Whoosh · Vercel
 ---
 
 ## Experience / Focus Areas
@@ -57,8 +57,6 @@ An ML pipeline for clustering and semantic search of scientific literature.
 - AI/ML
 
 ---
-
-
 
 ## Let's Connect
 

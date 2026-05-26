@@ -26,8 +26,26 @@ Java · C# · Python · TypeScript
 Spring Boot · .NET · FastAPI · NestJS 
 
 ### Cloud / Tools
-Google Cloud · Azure · Docker · PostgreSQL · MongoDB · Firebase · Git · Linux
+AWS · Azure · Docker · PostgreSQL · MongoDB · Firebase · Git · Linux
 
+## Featured Projects
+
+--- 
+
+### [Law Copilot](https://github.com/RodrigoAlexander7/law-copilot)
+An intelligent legal assistant with RAG over Peruvian legal documents.
+
+**Stack:** Google Cloud · FastAPI · LangChain · FAISS · Next.js · Docker
+
+### [AI-Powered Learning Assistant](https://github.com/RodrigoAlexander7/Google-Built-in-AI-Challenge-2025)
+An educational platform powered by Gemini AI and local Gemini Nano processing.
+
+**Stack:** TypeScript · Next.js · Python · FastAPI · Gemini Nano · Gemini API
+
+### [PMB Clustering](https://github.com/RodrigoAlexander7/nasa-space-apps-challenge-2025)
+An ML pipeline for clustering and semantic search of scientific literature.
+
+**Stack:** Python · FastAPI · SciBERT · HDBSCAN · Whoosh · Vercel
 ---
 
 ## Experience / Focus Areas
@@ -39,6 +57,8 @@ Google Cloud · Azure · Docker · PostgreSQL · MongoDB · Firebase · Git · L
 - AI/ML
 
 ---
+
+
 
 ## Let's Connect
 

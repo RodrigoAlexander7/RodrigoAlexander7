@@ -10,7 +10,7 @@
 ## About Me
 
 - **IoT & Software Engineer** focused on connecting edge devices to robust cloud ecosystems.
-- Specialized in **Backend & Cloud Architecture** (Hexagonal, Clean Architecture, DDD) using **FastAPI, NestJS, and Spring Boot**.
+- Specialized in **Backend & Cloud Architecture** (Hexagonal, Clean Architecture, DDD) using **FastAPI, ASP.NET, and Spring Boot**.
 - Experienced with embedded systems (**ESP32, Raspberry Pi**), low-power communication (**LoRa, XBee**), and telemetry protocols.
 - Integrating **Applied AI/ML** (RAG, Local LLMs) to build smart, data-driven real-world products.
 
@@ -27,35 +27,8 @@ Python · TypeScript · Java · C# · FastAPI · NestJS · Spring Boot · .NET �
 ### Cloud, DevOps & Databases
 Azure (IoT Hub, IoT Edge) · AWS · Docker · Linux · PostgreSQL · MongoDB · Time-Series Data
 
----
 
-## Featured Projects
-
-### [CanSat LoRa Telemetry & Transmission System](#)
-A complete aerospace telemetry and imaging system for a CanSat mission—engineered from onboard sensors to a cloud-connected, real‑time ground-station dashboard.
-- **Hardware & Edge:** C++, ESP32, Raspberry Pi Zero 2W, LoRa SX1278 for long-range RF data transmission.
-- **Backend & Cloud:** Python, WebSockets for ultra-low latency data streaming, and 3D data visualization using Next.js & Three.js.
-- **Key Focus:** Real-time data parsing, signal reliability, and hardware-to-software orchestration.
-
-### [Law Copilot](https://github.com/RodrigoAlexander7/law-copilot)
-An intelligent legal assistant leveraging advanced RAG (Retrieval-Augmented Generation) architectures over complex Peruvian legal documents.
-- **Stack:** Google Cloud, FastAPI, LangChain, FAISS (Vector DB), Next.js, Docker.
-
-### [AI-Powered Learning Assistant](https://github.com/RodrigoAlexander7/Google-Built-in-AI-Challenge-2025)
-An educational platform integrating cloud-based and local AI processing for optimized performance.
-- **Stack:** TypeScript, Next.js, Python, FastAPI, Gemini API & Gemini Nano (Local LLM execution).
-
----
-
-## Core Expertise
-
-- **IoT Protocols & Architecture:** MQTT, WebSockets, Edge Computing, Telemetry data ingestion.
-- **Enterprise Backend:** Highly concurrent systems, Hexagonal Architecture, API Design.
-- **Cloud Security:** Device authentication, secure cloud-to-device (C2D) messaging, and containerization.
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:rodrygoleu7@gmail.com">

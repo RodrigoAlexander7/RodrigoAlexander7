@@ -7,14 +7,13 @@
 
 ---
 
-## About Me
+### About Me
 
 - **IoT & Software Engineer** focused on connecting edge devices to robust cloud ecosystems.
 - Specialized in **Backend & Cloud Architecture** (Hexagonal, Clean Architecture, DDD) using **FastAPI, ASP.NET, and Spring Boot**.
 - Experienced with embedded systems (**ESP32, Raspberry Pi**), low-power communication (**LoRa, XBee**), and telemetry protocols.
 - Integrating **Applied AI/ML** (RAG, Local LLMs) to build smart, data-driven real-world products.
 
----
 
 ## Tech Stack
 
@@ -28,7 +27,7 @@ Python · TypeScript · Java · C# · FastAPI · NestJS · Spring Boot · .NET �
 Azure (IoT Hub, IoT Edge) · AWS · Docker · Linux · PostgreSQL · MongoDB · Time-Series Data
 
 
-## Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="mailto:rodrygoleu7@gmail.com">

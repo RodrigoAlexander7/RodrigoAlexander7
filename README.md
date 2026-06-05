@@ -1,33 +1,54 @@
 <h1 align="center">Hi, I'm Rodrigo Alexander</h1>
-<h3 align="center">IoT Cloud Engineer | Backend Developer | Applied AI</h3>
+<h3 align="center">IoT Cloud Engineer | Systems Architect | Backend Developer</h3>
 
 <p align="center">
-  I bridge the gap between hardware and the cloud—building secure IoT architectures, scalable backend systems, and applied AI solutions.
+  I bridge the gap between physical hardware and cloud ecosystems—engineering deterministic embedded systems, low-power telemetry networks, and high-concurrency backends.
 </p>
 
 ---
 
-### About Me
+## About Me
 
-- **IoT & Software Engineer** focused on connecting edge devices to robust cloud ecosystems.
-- Specialized in **Backend & Cloud Architecture** (Hexagonal, Clean Architecture, DDD) using **FastAPI, ASP.NET, and Spring Boot**.
-- Experienced with embedded systems (**ESP32, Raspberry Pi**), low-power communication (**LoRa, XBee**), and telemetry protocols.
-- Integrating **Applied AI/ML** (RAG, Local LLMs) to build smart, data-driven real-world products.
+- **IoT & Systems Engineer** specializing in constraint-driven environments, edge computing, and real-time data ingestion.
+- Robust foundation in **Backend & Cloud Architecture** (Hexagonal, Clean Architecture, DDD) using **FastAPI, ASP.NET, and Spring Boot**.
+- Hands-on experience with microcontrollers (**ESP32, ESP32-S3**), embedded Linux (**Raspberry Pi**), and RF protocols (**LoRa, XBee**).
+- Integrating **Applied AI** (RAG, Local LLMs like Gemini Nano) to build smart, data-driven hardware/software products.
 
+---
+
+## Featured Engineering Case Study
+
+### [CanSat LoRa Telemetry & Transmission System](https://github.com/RodrigoAlexander7) *(Pinned Below)*
+*A complete aerospace telemetry and imaging system designed to handle real-time data ingestion under strict bandwidth constraints.*
+
+* **Bandwidth Optimization:** Implemented a non-blocking fragmentation algorithm to interleave stereo JPEG fragments into a 5 Hz sensor telemetry stream over a narrow 433 MHz LoRa link.
+* **Deterministic Firmware (C++17):** Designed a Finite State Machine (FSM) on a Raspberry Pi Zero 2W governed by sensor fusion thresholds (IMU + Altimeter) to isolate critical mission logic.
+* **Reliable Data Ingestion:** Developed a custom framing protocol (`RTS`) via USB Serial to prevent data corruption between the ESP32-S3 gateway and an asynchronous Python WebSocket server.
+* **DevOps for Edge:** Built a reproducible cross-compilation pipeline using Docker to target ARM architectures from x86 host machines.
+
+---
 
 ## Tech Stack
 
-### IoT & Embedded Systems
-C/C++ · ESP32 · Raspberry Pi · LoRa SX1278 · XBee · MQTT · WebSockets · Microcontrollers & Sensors
+### ⚡ IoT & Embedded Systems
+C/C++ · ESP32 / ESP32-S3 · Raspberry Pi · LoRa (SX1278) · XBee · MQTT · WebSockets · Custom Serial Protocols · FreeRTOS Concepts
 
 ### Backend & Architecture
-Python · TypeScript · Java · C# · FastAPI · NestJS · Spring Boot · .NET · Clean Architecture
+Python · TypeScript · Java · C# · FastAPI · NestJS · Spring Boot · .NET · Hexagonal Architecture · Clean Architecture
 
 ### Cloud, DevOps & Databases
-Azure (IoT Hub, IoT Edge) · AWS · Docker · Linux · PostgreSQL · MongoDB · Time-Series Data
+Azure (IoT Hub, IoT Edge) · AWS · Google Cloud · Docker · Linux (Bash) · PostgreSQL · MongoDB · Time-Series Data
 
+---
 
-### Let's Connect
+## Other Core Projects
+
+* **Law Copilot:** Intelligent legal assistant utilizing advanced RAG architectures and FastAPI over Google Cloud.
+* **AI Learning Assistant:** Educational platform integrating cloud APIs and local LLM execution using Gemini Nano.
+
+---
+
+## Let's Connect!
 
 <p align="center">
   <a href="mailto:rodrygoleu7@gmail.com">

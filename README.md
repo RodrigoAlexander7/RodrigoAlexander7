@@ -18,7 +18,7 @@
 
 ## Featured Engineering Case Study
 
-### [CanSat LoRa Telemetry & Transmission System](https://github.com/RodrigoAlexander7) *(Pinned Below)*
+### [CanSat LoRa Telemetry & Transmission System](https://github.com/RodrigoAlexander7/onisat-cansat-2026/tree/main) 
 *A complete aerospace telemetry and imaging system designed to handle real-time data ingestion under strict bandwidth constraints.*
 
 * **Bandwidth Optimization:** Implemented a non-blocking fragmentation algorithm to interleave stereo JPEG fragments into a 5 Hz sensor telemetry stream over a narrow 433 MHz LoRa link.
